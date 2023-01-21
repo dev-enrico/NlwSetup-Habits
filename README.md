@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos, separados por colunas com checkbox's prenchidas ou não de acordo com o hábito e o dia.
 
-- [Visite o projeto online](https://maykbrito.github.io/nlw-setup)
+- [Visite o projeto online](https://dev-enrico.github.io/NlwSetup-Habits)
 
 ## 🔖 Layout
 
